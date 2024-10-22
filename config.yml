@@ -1,0 +1,89 @@
+baseURL: "https://mrlini.github.io" 
+title: Mihai Suciu
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Research
+          url: research/
+          weight: 3
+        - name: Teaching
+          url: teaching/
+          weight: 2
+
+params:
+    description: "I am an associate professor in the Department of Computer Science of the Faculty of Mathematics and Computer Science, Babeș-Bolyai University, Romania. My research focuses mostly on using game theory in optimization and classification."
+    author: Mihai Suciu
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["research","teaching"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Mihai SUCIU
+          subtitle: "I am an associate professor in the Department of Computer Science of the <strong><a href=https://www.cs.ubbcluj.ro/ target=_blank>Faculty of Mathematics and Computer Science</a></strong> from <strong><a href=https://www.ubbcluj.ro/ target=_blank>Babeș-Bolyai University</a></strong> of Cluj-Napoca, Romania. <br><br>My research interests are: evolutionary optimization; machine learning – classification; game theory and its applications (optimization, classification); networks."
+          imageUrl: "Suciu-Mihai.jpg"
+          imageWidth: 170
+          imageHeight: 220
+          imageTitle: Mihai Suciu
+          buttons:
+            - name: Teaching
+              url: teaching/
+            - name: Research
+              url: research/
+            
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Location
+          url: location/
+        - name: Office Hours
+          url: officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=-bjNkk4AAAAJ&hl=en
+        
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Mihai SUCIU"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
