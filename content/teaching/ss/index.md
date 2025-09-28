@@ -2,10 +2,10 @@
 title: "MLR8114: Securitate software" 
 date: 2024-10-01
 lastmod: 2024-10-05
-tags: ["Securitate software"]
+tags: ["Securitate software", "2024"]
 author: ["Suciu Mihai","LUNGANA-Niculescu Alexandru"]
 description: "Curs opțional, an III. Cursul discută diferite diferite vulnerabilități software." 
-summary: "Curs opțional, an III. Cursul discută diferite diferite vulnerabilități software." 
+summary: "__2024__ - Curs opțional, an III. Cursul discută diferite diferite vulnerabilități software." 
 # cover:
 #     image: "sec_software.jpeg"
 #     alt: "Figure caption"
