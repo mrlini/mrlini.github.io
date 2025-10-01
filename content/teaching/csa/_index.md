@@ -1,11 +1,12 @@
 ---
 title: "MLE5004: Arhitectura sistemelor de calcul / Computer systems architecture" 
 date: 2025-09-24
-lastmod: 2025-09-24
+lastmod: 2025-10-01
 tags: ["undergrad course", "2025"]
 author: ["Suciu Mihai"]
 description: "Undergrad course." 
 summary: "2025, undergrad course." 
+
 # cover:
 #     image: "comp_sec.jpeg"
 #     alt: "Figure caption"
@@ -71,6 +72,14 @@ Grading policy for practical tests/exams:
 - 4 = Runtime crash.
 - 7 = All of the above are OK but the implementation is not quite complete
 - 10 = Complete implementation and correct execution.
+
+## For students who failed this course in the past and are taking it again this year:
+
+- According to the faculty regulations, students who failed this course and are retaking it, must comply with all the requirements of the current promotion. As a result:
+  - Until the 12th of October 2025 they must contact a teaching assistant and be included in a laboratory group.
+  - __All rules/requirements presented above (course/seminar/lab/tests) also apply to students who are retaking the course__.
+  - These students will be will be distributed evenly within the groups/subgroups to ensure an even workload.
+  - Students will be consistent and will participate in the same time interval at the seminar and laboratory activities.
 
 ## laboratory work
 
