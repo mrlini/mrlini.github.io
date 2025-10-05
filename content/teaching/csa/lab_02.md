@@ -21,7 +21,7 @@ disableAnchoredHeadings: false
 
 ## Arithmetic instructions
 - instructions used in this laboratory: ADD, SUB, MUL, DIV, INC, DEC, NEG
-- [link](../../../instr) to instruction reference (just search for the desired instruction in this page and click on the apropriate link)
+- [link](../../../instr) to instruction reference (just search for the desired instruction in this page and click on the appropriate link)
 
 ## Example
 ```asm
