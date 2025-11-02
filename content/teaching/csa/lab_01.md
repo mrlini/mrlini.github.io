@@ -5,7 +5,7 @@ lastmod: 2025-09-24
 tags: ["lab", "csa"]
 author: ["Suciu Mihai"]
 description: "lab 1 csa." 
-summary: "lab 1 csa." 
+summary: "Converting between different number bases." 
 # cover:
 #     image: "comp_sec.jpeg"
 #     alt: "Figure caption"

@@ -5,7 +5,7 @@ lastmod: 2025-09-24
 tags: ["lab", "csa"]
 author: ["Suciu Mihai"]
 description: "lab 4 csa." 
-summary: "lab 4 csa." 
+summary: "Bitwise operations." 
 
 showToc: true
 disableAnchoredHeadings: false

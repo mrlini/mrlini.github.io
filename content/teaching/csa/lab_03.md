@@ -5,7 +5,7 @@ lastmod: 2025-09-24
 tags: ["lab", "csa"]
 author: ["Suciu Mihai"]
 description: "lab 3 csa." 
-summary: "lab 3 csa." 
+summary: "Complex arithmetic expressions." 
 
 showToc: true
 disableAnchoredHeadings: false

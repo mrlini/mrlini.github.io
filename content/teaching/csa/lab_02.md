@@ -5,7 +5,7 @@ lastmod: 2025-09-24
 tags: ["lab", "csa"]
 author: ["Suciu Mihai"]
 description: "lab 2 csa." 
-summary: "lab 2 csa." 
+summary: "Arithmetic instructions." 
 # cover:
 #     image: "comp_sec.jpeg"
 #     alt: "Figure caption"
