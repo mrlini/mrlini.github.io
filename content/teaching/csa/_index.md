@@ -40,6 +40,21 @@ Syllabus: [en](https://www.cs.ubbcluj.ro/files/curricula/2025/syllabus/IE_sem1_M
 	- C.d.asociat Tudor Lechintan
 	
 	
+## <font color='red'>Resources for practical exam (last lab test)</font>
+- [link](../../../instr) to instruction reference
+- [C functions](https://learn.microsoft.com/en-us/cpp/c-runtime-library/reference/crt-alphabetical-function-reference?view=msvc-160&viewFallbackFrom=vs-2017)
+- instructions for compiling and linking modules in one exe file:
+> `nasm modul1.asm -fwin32 -g -o modul1.obj`
+>
+> `nasm modul2.asm -fwin32 -g -o modul2.obj`
+>
+> `cl main.c /link modul1.obj modul2.obj`
+>
+> `main.exe`
+- C functions will be used only for I/O operations
+- work time: 1h
+- ! during the practical test, you are allowed to have the following programs open: editor, debugger, cmd, calculator, requirement, browser (with a maximum of 3 tabs open: script, ASM instructions and C functions)
+
 ## <font color='red'>Some useful resources</font>
 - you can see your lab grades and lab and seminar attendance status [here](https://ubbcluj.sharepoint.com/:x:/s/2025-2026ComputerSystemsArchitecture-IE-EchipaASC/EXlqtd3_uIFKmJCQNlJ7a-cBZS-WZ0VW8cj8DBAN2MShuw?e=XdQnth)
 - [link](../../../instr) to instruction reference (just search for the desired instruction in this page and click on the appropriate link)
