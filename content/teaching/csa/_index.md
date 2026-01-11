@@ -40,7 +40,7 @@ Syllabus: [en](https://www.cs.ubbcluj.ro/files/curricula/2025/syllabus/IE_sem1_M
 	- C.d.asociat Tudor Lechintan
 	
 	
-## <font color='red'>Resources for practical exam (last lab test)</font>
+## <font color='red'>Resources for practical exam (lab test week 14)</font>
 - [link](../../../instr) to instruction reference
 - [C functions](https://learn.microsoft.com/en-us/cpp/c-runtime-library/reference/crt-alphabetical-function-reference?view=msvc-160&viewFallbackFrom=vs-2017)
 - instructions for compiling and linking modules in one exe file:
