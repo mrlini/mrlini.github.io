@@ -48,7 +48,7 @@ Syllabus: [en](https://www.cs.ubbcluj.ro/files/curricula/2025/syllabus/IE_sem1_M
 - rules for entering the written exam
   - no. laboratory attendances >= 12
   - no. seminar attendances >= 5
-  -	weighted average of the three lab tests >= 5 (0.3*t_1+0.3t_2+0.4*test_3 >= 5)
+  -	weighted average of the three lab tests >= 5 (0.3\*test\_1+0.3\*test\_2+0.4\*test\_3 >= 5)
 - document detailing the rules for the exam ([link](../../../metodologie-examen-scris_en.pdf))
 
 
