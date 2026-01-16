@@ -40,7 +40,20 @@ Syllabus: [en](https://www.cs.ubbcluj.ro/files/curricula/2025/syllabus/IE_sem1_M
 	- C.d.asociat Tudor Lechintan
 	
 	
-## <font color='red'>Resources for practical exam (lab test week 14)</font>
+## <font color='red'>For the written exam</font>
+- Examn dates for the normal exam session:
+	- January 21, 2026, 11:00 a.m.
+  - January 29, 2026, 11:00 a.m.
+- fill in form for choosing an exam date ([link form](https://forms.office.com/e/82sShksVLP))
+- rules for entering the written exam
+  - no. laboratory attendances >= 12
+  - no. seminar attendances >= 5
+  -	weighted average of the three lab tests >= 5 (0.3*t_1+0.3t_2+0.4*test_3 >= 5)
+- document detailing the rules for the exam ([link](../../../metodologie-examen-scris_en.pdf))
+
+
+
+## Resources for practical exam (lab test week 14)
 - [link](../../../instr) to instruction reference
 - [C functions](https://learn.microsoft.com/en-us/cpp/c-runtime-library/reference/crt-alphabetical-function-reference?view=msvc-160&viewFallbackFrom=vs-2017)
 - instructions for compiling and linking modules in one exe file:
