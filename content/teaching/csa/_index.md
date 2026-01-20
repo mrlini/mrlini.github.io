@@ -41,6 +41,7 @@ Syllabus: [en](https://www.cs.ubbcluj.ro/files/curricula/2025/syllabus/IE_sem1_M
 	
 	
 ## <font color='red'>For the written exam</font>
+- **distribution of students to exam rooms for the exam on January 21, 2026 ([link](../../../21.01.2026-studenti-inscrisi.pdf))**
 - Examn dates for the normal exam session:
 	- January 21, 2026, 11:00 a.m.
   - January 29, 2026, 11:00 a.m.
