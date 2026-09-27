@@ -116,6 +116,13 @@ The examination session takes place from January 18, 2027, to February 7, 2027. 
 The session for retakes and grade improvements takes place from February 15, 2027, to February 21, 2027. The exam date scheduled for the __retake session__ is <font color='red'>February 15, 2027</font>.
 To pass, the grade on the written exam must be $\geq5$.
 
+### __<font color='red'>Final grade</font>__:
+
+$\text{Final grade} = 0.15*\text{L}+0.15*\text{P}+0.15*\text{PR}+0.55*\text{W}$ 
+
+- L (Lab activity), P (Partial exam), PR (PRactical exam), W (Written exam)
+
+
 ## For students who failed this course in the past and are taking it again this year:
 
 - According to the faculty regulations, students who failed this course and are retaking it, must comply with all the requirements of the current promotion. As a result:
