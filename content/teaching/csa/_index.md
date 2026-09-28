@@ -50,7 +50,7 @@ Syllabus: [en](https://www.cs.ubbcluj.ro/files/curricula/2025/syllabus/IE_sem1_M
 Teaching activities will take place according to the official timetable displayed on the faculty page. ([link](https://www.cs.ubbcluj.ro/files/orar/2026-1/disc/MLE5004.html))
 
 For communication (announcements, materials) we will use MS Teams, the team is <font color='red'>[2026-2027] Computer Systems Architecture - IE</font>, access code:
-<img src="mle5004.png" alt="drawing" width="100"/>
+<img src="mle5004-2026.png" alt="drawing" width="100"/>
 Students enrolled are asked to join the team. Materials related to the discipline will be posted on MsTeams in the team files section.  
 
 
