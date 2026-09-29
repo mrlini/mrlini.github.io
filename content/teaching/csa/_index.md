@@ -132,12 +132,3 @@ $\text{Final grade} = 0.15*\text{L}+0.15*\text{P}+0.15*\text{PR}+0.55*\text{W}$
 
 
 ## Laboratory work
-
-
-
-
-01. [Laboratory 01 - Converting between different number bases](lab_01)
-
-
-
-
