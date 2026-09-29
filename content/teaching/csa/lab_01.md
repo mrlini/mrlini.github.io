@@ -11,7 +11,7 @@ summary: "Converting between different number bases."
 #     alt: "Figure caption"
 #     relative: true
 showToc: true
-disableAnchoredHeadings: false
+disableAnchoredHeadings: true
 
 ---
 
