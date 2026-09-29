@@ -12,8 +12,7 @@ summary: "2026, undergrad course."
 #     alt: "Figure caption"
 #     relative: true
 showToc: true
-disableAnchoredHeadings: true
-# weight: 0
+disableAnchoredHeadings: false
 
 ---
 
@@ -131,9 +130,13 @@ $\text{Final grade} = 0.15*\text{L}+0.15*\text{P}+0.15*\text{PR}+0.55*\text{W}$
   - These students will be will be distributed evenly within the groups/subgroups to ensure an even workload.
   - Students will be consistent and will participate in the same time interval at the seminar and laboratory activities.
 
-## laboratory work
+
+__<font size="8">Laboratory work</font>__
 
 
+
+
+## [Laboratory 01 - Converting between different number bases](lab_01)
 
 
 
