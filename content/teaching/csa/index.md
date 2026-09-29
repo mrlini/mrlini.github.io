@@ -131,12 +131,12 @@ $\text{Final grade} = 0.15*\text{L}+0.15*\text{P}+0.15*\text{PR}+0.55*\text{W}$
   - Students will be consistent and will participate in the same time interval at the seminar and laboratory activities.
 
 
-__<font size="8">Laboratory work</font>__
+## Laboratory work
 
 
 
 
-## [Laboratory 01 - Converting between different number bases](lab_01)
+01. [Laboratory 01 - Converting between different number bases](lab_01)
 
 
 
