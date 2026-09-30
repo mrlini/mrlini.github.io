@@ -1,11 +1,11 @@
 ---
 title: "MME8199: Advanced Software Security (Notiuni avansate de securitate software)" 
-date: 2025-09-27
-lastmod: 2025-09-27
-tags: ["postgraduate course", "2025"]
+date: 2026-09-29
+lastmod: 2026-09-30
+tags: ["postgraduate course", "2026"]
 author: ["Suciu Mihai"]
 description: "Postgraduate course." 
-summary: "2025, postgraduate course." 
+summary: "2026, postgraduate course." 
 # cover:
 #     image: "comp_sec.jpeg"
 #     alt: "Figure caption"
@@ -15,6 +15,23 @@ disableAnchoredHeadings: false
 
 ---
 
-2025-2026 $1^{st}$ Semester, $2^{nd}$ year, Cyber Security
+2026-2027 $1^{st}$ Semester, $2^{nd}$ year, Cyber Security
 
-![so long](./so_long.jpg)
+Instructors: 
+- Mihai Suciu
+
+
+Syllabus: [en](https://www.cs.ubbcluj.ro/files/curricula/2023/fise_discipline_cyber/AdvancedSoftwareSecurity_MME8199_CS_en_MihaiSuciu.pdf), [ro](https://www.cs.ubbcluj.ro/files/curricula/2025/syllabus/CS_sem3_MME8199_en_mihai-suciu_2025_9598.pdf)
+
+Teaching activities will take place according to the official timetable displayed on the faculty page. ([link](https://www.cs.ubbcluj.ro/files/orar/2026-1/disc/MME8199.html))
+
+
+For communication (announcements, materials) we will use MS Teams, the team is <font color='red'>MME8199 (2026-2027)</font>, access code:
+<img src="mme8199_2026.png" alt="drawing" width="100"/>
+Students enrolled are asked to join the team. Materials related to the discipline will be posted on MsTeams in the team files section.  
+
+
+### Evaluation
+- 60% written exam
+- 40% practical exam
+- 1 point bonus for extra work
