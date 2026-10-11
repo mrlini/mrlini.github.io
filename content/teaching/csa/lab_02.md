@@ -1,7 +1,7 @@
 ---
 title: "Lab 2" 
 date: 2025-10-05
-lastmod: 2025-09-24
+lastmod: 2026-10-04
 tags: ["lab", "csa"]
 author: ["Suciu Mihai"]
 description: "lab 2 csa." 
