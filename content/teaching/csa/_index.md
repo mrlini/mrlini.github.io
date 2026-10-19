@@ -125,7 +125,7 @@ $\text{Final grade} = 0.15*\text{L}+0.15*\text{P}+0.15*\text{PR}+0.55*\text{W}$
 ## For students who failed this course in the past and are taking it again this year:
 
 - According to the faculty regulations, students who failed this course and are retaking it, must comply with all the requirements of the current promotion. As a result:
-  - Until the 12th of October 2025 they must contact a teaching assistant and be included in a laboratory group.
+  - Until the 12th of October ~~2025~~ 2026 they must contact a teaching assistant and be included in a laboratory group.
   - __All rules/requirements presented above (course/seminar/lab/tests) also apply to students who are retaking the course__.
   - These students will be will be distributed evenly within the groups/subgroups to ensure an even workload.
   - Students will be consistent and will participate in the same time interval at the seminar and laboratory activities.
