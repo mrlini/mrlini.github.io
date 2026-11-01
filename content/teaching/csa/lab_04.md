@@ -18,11 +18,11 @@ disableAnchoredHeadings: false
 __In this lab__: instructions that manipulate operands at bit level.
 
 Instructions used:
-- [AND](../../../instr/and.html) - logical **AND**,
-- [OR](../../../instr/or.html) - logical inclusive **OR**,
-- [XOR](../../../instr/xor.html) - logical e**X**clusive **OR**,
-- [TEST](../../../instr/test.html) - logical compare,
-- [NOT](../../../instr/not.html) - one's complement negation,
+- [AND](../../../instr/AND.html) - logical **AND**,
+- [OR](../../../instr/OR.html) - logical inclusive **OR**,
+- [XOR](../../../instr/XOR.html) - logical e**X**clusive **OR**,
+- [TEST](../../../instr/TEST.html) - logical compare,
+- [NOT](../../../instr/NOT.html) - one's complement negation,
 - [SHL](../../../instr/SAL_SAR_SHL_SHR.html) - **SH**ift logical **L**eft,
 - [SHR](../../../instr/SAL_SAR_SHL_SHR.html) - **SH**ift logical **R**ight,
 - [SAL](../../../instr/SAL_SAR_SHL_SHR.html) - **S**hift **A**rithmetic **L**eft,

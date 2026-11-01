@@ -19,10 +19,10 @@ __In this lab__: complex arithmetic expressions (additions, subtractions, multip
 # Theory
 
 ## Arithmetic instructions
-- [ADC](../../../instr/adc.html) - Add with Carry,
-- [SBB](../../../instr/sbb.html) - Integer Subtraction with Borrow,
-- [IMUL](../../../instr/imul.html) - Signed Multiply,
-- [IDIV](../../../instr/idiv.html) - Signed Divide.
+- [ADC](../../../instr/ADC.html) - Add with Carry,
+- [SBB](../../../instr/SBB.html) - Integer Subtraction with Borrow,
+- [IMUL](../../../instr/IMUL.html) - Signed Multiply,
+- [IDIV](../../../instr/IDIV.html) - Signed Divide.
 
 ## Signed conversion instructions
 - [CBW](../../../instr/CBW_CWDE_CDQE.html) - Convert Byte to Word
