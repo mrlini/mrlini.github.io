@@ -24,7 +24,7 @@ CMP D, S; effect: D-S, adjust flags according to the result
 ```
 
 
-- The *CMP* instruction (see documentation [here](../../../instr/cmp.html)) computes a fictional substraction between the numerical values of the two operands: *D-S*.
+- The *CMP* instruction (see documentation [here](../../../instr/CMP.html)) computes a fictional substraction between the numerical values of the two operands: *D-S*.
 - => it compares the value of the operands (without modifying them) by doing a fictive *D-S* affecting only the flags:OF,SF,ZF,AF,PF şi CF	
 
 
@@ -91,7 +91,7 @@ mov cx,1
 TEST D,S; fictive execution  D AND S; OF = 0, CF = 0, SF,ZF,PF -  modified, AF - undefined
 ```
 
-- The *TEST* instruction (see documentation [here](../../../instr/test.html)) performs the *AND* logical operation between the two operands (fictive execution of ops AND opd) without saving the result of the operation in any of the operands.
+- The *TEST* instruction (see documentation [here](../../../instr/TEST.html)) performs the *AND* logical operation between the two operands (fictive execution of ops AND opd) without saving the result of the operation in any of the operands.
 - Both operands of the TEST instructions must be of the same size.
 - The only effect of a TEST statement is to modify the flag content specified in the above table, corresponding to the result of the AND operation performed.
 
@@ -123,7 +123,7 @@ et2: ;instructions set for this label....
 
 __JMP – Unconditional Jump__ 
 
-- see documentation [here](../../../instr/jmp.html)
+- see documentation [here](../../../instr/JMP.html)
 
 | Mnemonic | Description |
 | ---- | ---- |
@@ -147,7 +147,7 @@ __JMP – Unconditional Jump__
 
 __Jcc — Jump if Condition Is Met__
 
-- See documentation [here](../../../instr/jcc.html)
+- See documentation [here](../../../instr/JCC.html)
 - The conditions for each *Jcc mnemonic* are given in the "{description}" column of the table on the preceding page. The terms "*less*" and "*greater*" are used for comparisons of signed integers and the terms "above" and "below" are used for unsigned integers.
 
 |	Mnemonic	|	Description	|
